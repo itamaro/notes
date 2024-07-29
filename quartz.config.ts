@@ -11,9 +11,10 @@ const config: QuartzConfig = {
     pageTitle: "🪴 Quartz 4.0",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
+    // analytics: {
+    //   provider: "plausible",
+    // },
     locale: "en-US",
     baseUrl: "itamaro.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
