@@ -33,3 +33,11 @@ The site is built and published to GitHub Pages on push using [this GitHub Actio
 
 The repo needs to have Pages enabled in [the settings](https://github.com/itamaro/notes/settings/pages) with "Source" set to "GitHub Actions".
 ![[images/20240728-github-pages-repo-settings.png]]
+
+### Configuring Custom Domain
+
+Step 1: Verify the domain following [this guide](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages) (TLDR: add itamaro.com in https://github.com/settings/pages and add the TXT record to the domain DNS).
+
+Step 2: Update the itamaro.com DNS records according to [GitHub's docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) (TLDR: add 4 A Records for `@` and `*` hostnames pointing to `185.199.{108..111}.153`, and a CNAME record for `www` hostname pointing to `itamaro.github.io`).
+
+Step 3: Update the [GitHub Pages repo settings](https://github.com/itamaro/notes/settings/pages), setting the "Custom domain" option to "itamaro.com". Wait for all the things to settle (DNS settings, SSL, caches, ...).

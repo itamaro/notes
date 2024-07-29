@@ -13,6 +13,6 @@ my super simple personal notes collection. it's a static site composed using Obs
 # TODO
 
 - [ ] Customize theme ([GitHub docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll), [Quartz layout docs](https://quartz.jzhao.xyz/layout))
-- [ ] Configure a custom domain ([GitHub docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site), [Quartz docs](https://quartz.jzhao.xyz/hosting#custom-domain))
+- [x] Configure a custom domain ([GitHub docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site), [Quartz docs](https://quartz.jzhao.xyz/hosting#custom-domain))
 - [ ] Maybe transfer content from my old blog
 - [ ] Why is the default layout on desktop appearing as mobile?
