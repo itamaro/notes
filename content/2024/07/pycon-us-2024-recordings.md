@@ -9,6 +9,6 @@ All the recordings from [PyCon US 2024](https://us.pycon.org/2024/) are now [ava
 
 In related news, 70+ videos were added to my YouTube watch list 😬
 
-I worked through the Beeware tutorial (https://github.com/itamaro/beeware-tutorial-toga) - that was a fun one!
+I worked through the [[beeware-tutorial|BeeWare tutorial]] - that was a fun one!
 
 Also did the PyO3 tutorial (https://github.com/itamaro/pyo3-tutorial), and PyP5JS tutorial (https://github.com/itamaro/pyp5js-tutorial).
