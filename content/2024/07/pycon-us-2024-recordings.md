@@ -2,6 +2,8 @@
 title: PyCon US 2024 Recordings
 draft: false
 tags:
+  - python
+date: 2024-07-28T20:00:00
 ---
 All the recordings from [PyCon US 2024](https://us.pycon.org/2024/) are now [available on YouTube](https://www.youtube.com/@PyConUS) 🎉
 
