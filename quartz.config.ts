@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     //   provider: "plausible",
     // },
     locale: "en-US",
-    baseUrl: "itamaro.github.io",
+    baseUrl: "itamaro.github.io/notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
