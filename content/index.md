@@ -9,6 +9,7 @@ my super simple personal notes collection. it's a static site composed using Obs
 - [[2024/]]
 	- [[2024/07/pycon-us-2024-recordings|PyCon US 2024 Recordings]]
 	- [[2024/07/beeware-tutorial|Desktop + Mobile Cross Platform Python Apps Using BeeWare Briefcase + Toga]]
+	- [[2024/07/creative-coding-with-python-pyp5js|Creative Coding With Python, Py5, and py5pjs]]
 - [[this-site|How This Site Works]]
 
 # TODO
