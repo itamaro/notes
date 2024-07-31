@@ -5,7 +5,7 @@ tags:
   - python
 date: 2024-07-30T17:41:00
 ---
-I rewatched Łukasz Langa's PyCon talk, [Build in-browser 3D experiences with WebGL and PyScript](https://youtu.be/Af9DwG0WF24) (after watching it live in-person). Watching the recording and having my laptop on hand allowed me to try it out myself, which is quite fun!
+I rewatched [Łukasz Langa](https://lukasz.langa.pl/)'s PyCon talk, [Build in-browser 3D experiences with WebGL and PyScript](https://youtu.be/Af9DwG0WF24) (after watching it live in-person). Watching the recording and having my laptop on hand allowed me to try it out myself, which is quite fun!
 
 Łukasz conveniently has the projects available on [his pyscript.com profile](https://pyscript.com/@ambv), making it pretty easy to ~~steal~~ reproduce his demos 🙃 (https://pyscript.com/@itamaro)
 
