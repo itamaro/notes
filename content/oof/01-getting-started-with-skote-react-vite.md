@@ -207,4 +207,4 @@ Warning: 26 repetitive deprecation warnings omitted.
 ```
 
 But hey, it works..
-![[./images/20240801-skote-web-defaults.png]]
+![[../oof/images/20240801-skote-web-defaults.png]]
