@@ -1,5 +1,5 @@
 ---
-title: "OOF: Getting Started With Skote React Vite"
+title: "[OOF/01] Getting Started With Skote React Vite"
 draft: false
 tags:
   - oof

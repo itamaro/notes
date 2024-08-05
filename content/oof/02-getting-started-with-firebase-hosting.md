@@ -1,5 +1,5 @@
 ---
-title: "OOF: Getting Started With Firebase Hosting"
+title: "[OOF/02] Getting Started With Firebase Hosting"
 draft: false
 tags:
   - oof
