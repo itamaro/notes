@@ -3,6 +3,7 @@ title: "OOF: Getting Started With Skote React Vite"
 draft: false
 tags:
   - oof
+  - javascript
 date: 2024-08-01T16:08:00
 ---
 Getting started docs: https://themesbrand.com/skote-react/docs/reactjs/getting-started.html
