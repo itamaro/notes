@@ -67,6 +67,10 @@ This is similar to using the `python3.12-intel64` binary (which is a x86_64-only
 $ arch
 arm64
 
+$ file /Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12-intel64
+/Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12-intel64: Mach-O universal binary with 1 architecture: [x86_64:Mach-O 64-bit executable x86_64]
+/Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12-intel64 (for architecture x86_64):	Mach-O 64-bit executable x86_64
+
 $ /Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12-intel64
 Python 3.12.4 (v3.12.4:8e8a4baf65, Jun  6 2024, 17:33:18) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
